@@ -1,0 +1,87 @@
+/* style.css */
+body{
+    /* margin: 35px; */
+    color: black;
+    font-family: kanit;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    background: blanchedalmond;
+
+
+}
+img {
+width : 44px;
+height : 44px;
+border-radius: 60%;
+}
+
+a:hover {
+    cursor: url('https://www.lewagon.com/assets/v4/logo-lewagon-9c19fb39a748cd3b1f49059ce0dc6c0dfc4cc2447d5a9a3e01bd2d5a214faf3c.svg') 4 12, pointer;
+}
+
+.banner {
+    background-image: url('https://www-img.lewagon.com/70jORFEZ3lNKGyUfwODxgWIHYzROSrmRP4wSk6lugTE/rs:fill:830:704/plain/s3://wagon-www/zinjaocfymfnza5eefwrv8c664pl');
+    background-size: cover;
+    height: 125vh;
+}
+
+lewagon12.{
+    color:darkred;
+}
+
+
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 20px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+.footer {
+  background: darkgrey;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 0px 50px;
+  color: rgba(0,0,0,0.3);
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  color: black;
+  opacity: 0.15;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+.footer-links a:hover {
+  opacity: 1;
+}
+.footer .fa-heart {
+  color: black;
+}
+
+body {
+background-color : #1c1c1e ;
+color : #fefefe ;
+}
